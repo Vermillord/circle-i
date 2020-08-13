@@ -10,7 +10,7 @@ To make sure that all of the codes in the jupyter notebook runs, the prerequisit
 * Jupyter Notebook
 * Libraries: Numpy, Matplotlib, Numba, Pandas
 
-There are python cheat sheets included that are located in . Use this module well and responsibly, hopefully this module will help in your future works and experiments!
+There are python cheat sheets included that are located [here](https://github.com/Vermillord/circle-i/tree/master/Python%20Basics%20For%20Engineering/Python%20Cheat%20Sheet). Use this module well and responsibly, hopefully this module will help in your future works and experiments!
 
 #KaryakanIndonesia
 #AestheticallyBarbaric
